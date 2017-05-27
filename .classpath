@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="A:/UFPE/Compiladores/jflex-1.6.1/jflex-1.6.1/lib/jflex-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavi/Downloads/antlr-runtime-4.4.jar" sourcepath="C:/Users/otavi/.m2/repository/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
