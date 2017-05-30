@@ -124,7 +124,7 @@ private SymbolTable symbolTable;
 
 	// Type t;
 	// Identifier i;
-	// FormalList forml;
+	// FormalList fl;
 	// VarDeclList vl;
 	// StatementList sl;
 	// Exp e;
